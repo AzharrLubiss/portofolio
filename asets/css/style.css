@@ -202,13 +202,12 @@ h4{
     width: 100%;
 }
 
-.skill,.pengalaman,.sekolah,.about,.data-diri{
+.skill,.pengalaman,.about,.data-diri{
     transition: all 0.3s ease;
 }
 
 .skill:hover,
 .pengalaman:hover,
-.sekolah:hover,
 .about:hover,
 .data-diri:hover {
     transform: scale(1.03);
